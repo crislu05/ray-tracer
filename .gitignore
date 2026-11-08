@@ -1,0 +1,11 @@
+__pycache__
+venv/
+**/.mypy_cache
+.pytest_cache
+
+*.py?
+
+*.egg-info/
+
+# Duplicate nested copy (do not version)
+projecta-raytracer-crislu05-main/
